@@ -17,3 +17,23 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+**12.1 Prerequisites**
+- I encountered no problems in this step. I had all of the prerequisites covered and encountered no trouble in the following steps. 
+
+**12.2 Make a repo on GitHub**
+- This was rather easy. Because the repo was already created, most of this step was already completed. This made for an error free step. 
+
+**12.3 Clone the test GitHub repository to your computer via RStudio**
+- This step is where I ran into my first issue. After RStudio prompted me to enter my username and password for github, it would say that I did not have the proper authorization. I discovered that it required an access key in place of my password. After a google search, I learned how to create an access code, did so, and entered it into RStudio. This gave me proper access to create a new project in RStudio through Git. I then found the README.md file and was able to open it in my new project. 
+
+**12.4 Make local changes, save commit**
+- After opening the README.md file, I was successfully able to modify the document and add the correct line from the instructions. After this, I opened the "Git" tab in the top right pane and checked the "staged" box next to the file. I was then successfully able to locate the "commit" tab and added the correct message from the instructions. Overall, I did not run into any issues during this step.  
+
+**12.5 Push Your local changes online to GitHub**
+- During this step I was successfully able to push and pull the changes in my local file and send them to GitHUb. I did not experience any credential challenge, and I did not face any other errors or troubles in this step. 
+
+**12.6 Confirm the local change propagated to the GitHub remote**
+- During this final step, I went back to my GitHub browser in order to verify that the local changes were sent to GitHub. I was able to see the new line in the README.md file and the new commit that was created. Overall, I was able to verify that these changes were made successfully 
+
+
