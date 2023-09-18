@@ -41,10 +41,11 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 **12.5 Push Your local changes online to GitHub**
 - During this step I was successfully able to push and pull the changes in my local file and send them to GitHUb. I did not experience any credential challenge, and I did not face any other errors or troubles in this step. 
 - This is where I ran into an authentication issue. I needed to set up a personal access token in github so then I could push my new line in the repo.
--
+- When going through this step I did not run inot a credential challenge and was able to work through it with ease.
 
 **12.6 Confirm the local change propagated to the GitHub remote**
 - During this final step, I went back to my GitHub browser in order to verify that the local changes were sent to GitHub. I was able to see the new line in the README.md file and the new commit that was created. Overall, I was able to verify that these changes were made successfully 
 - In this step, I also checked the repo thoroughly to see that my changes went through, and there was a new additional line in the README.md file. 
+- I was able to see the commit went through on the browser, and to see that all the commits that were made we saved in the file.
 
 
